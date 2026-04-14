@@ -29,3 +29,12 @@ Estrategia unificada de usuarios
 🛠️ Stack
 
 Python | Pandas | SciPy | Seaborn
+
+
+📌 Conclusión Ejecutiva
+
+La versión B demostró un mejor desempeño general al incrementar significativamente la tasa de conversión, lo que sugiere una mejora en la experiencia del usuario.
+
+Adicionalmente, se identificó que los canales de Email y Ads son más eficientes en términos de conversión, mientras que Organic aporta mayor volumen de tráfico.
+
+El tipo de usuario no mostró impacto significativo en la conversión, lo que indica que la estrategia puede mantenerse unificada.
