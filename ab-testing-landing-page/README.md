@@ -24,6 +24,8 @@ No hay diferencia entre usuarios nuevos y recurrentes
 Implementar versión B
 Priorizar canales de alto rendimiento
 Estrategia unificada de usuarios
+
+
 🛠️ Stack
 
 Python | Pandas | SciPy | Seaborn
